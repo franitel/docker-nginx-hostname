@@ -1,7 +1,3 @@
-[![stenote/nginx-hostname](https://shields.beevelop.com/docker/image/image-size/stenote/nginx-hostname/latest.svg)]()
-[![stenote/nginx-hostname](https://shields.beevelop.com/docker/image/layers/stenote/nginx-hostname/latest.svg)]()
-
-
 # docker-nginx-hostname
 
 ## overview
